@@ -96,6 +96,14 @@ The following table describes the important parameters used in this project.
 
 [ESP8266_KiwisIoT.ino](ESP8266_KiwisIoT.ino)
 
+## **PROJECT OUTPUT**
+
+![ESP8266 IoT Project Output](OUTPUT.jpeg)
+
+## **PROJECT OUTPUT**
+
+![KiwisIoT Panel Output](PANEL%20OUTPUT.jpeg)
+
 ## **8. SERIAL MONITOR OUTPUT**
 
 The Arduino Serial Monitor is used to observe the initialization messages and transmitted numerical values.

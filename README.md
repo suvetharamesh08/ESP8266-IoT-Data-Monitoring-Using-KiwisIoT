@@ -16,9 +16,6 @@ The main objectives of this project are:
 - To understand the fundamentals of Internet of Things (IoT).
 - To integrate the ESP8266 with the KiwisIoT platform.
 - To transmit numerical data to the IoT dashboard.
-- To monitor transmitted values through the Serial Monitor.
-- To understand cloud-based data communication.
-- To develop practical knowledge of wireless embedded systems.
 
 ## **3. HARDWARE REQUIREMENTS**
 
@@ -95,6 +92,9 @@ The following table describes the important parameters used in this project.
 | Transmission Interval | 3 Seconds |
 | Data Channel | 0 |
 | Baud Rate | 115200 |
+## **SOURCE CODE**
+
+[ESP8266_KiwisIoT.ino](ESP8266_KiwisIoT.ino)
 
 ## **8. SERIAL MONITOR OUTPUT**
 

@@ -1,4 +1,4 @@
-```cpp
+
 #include <ESP8266WiFi.h>
 #include <KiwisIoT.h>
 
@@ -7,7 +7,7 @@ const char* ssid = "YOUR_WIFI_NAME";
 const char* pass = "YOUR_WIFI_PASSWORD";
 
 // KiwisIoT Topic ID
-const char* topic = "dash_1794814147815";
+const char* topic = "TOPIC ID";
 
 // Create KiwisIoT Object
 KiwisIoT kiwisiot(ssid, pass, topic);
@@ -52,4 +52,4 @@ void loop() {
   // Wait for 3 Seconds
   delay(3000);
 }
-```
+

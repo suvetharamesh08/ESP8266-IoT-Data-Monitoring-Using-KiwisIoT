@@ -100,9 +100,6 @@ The following table describes the important parameters used in this project.
 
 ![ESP8266 IoT Project Output](OUTPUT.jpeg)
 
-## **PROJECT OUTPUT**
-
-![KiwisIoT Panel Output](PANEL%20OUTPUT.jpeg)
 
 ## **8. SERIAL MONITOR OUTPUT**
 

@@ -101,6 +101,10 @@ The following table describes the important parameters used in this project.
 ![ESP8266 IoT Project Output](OUTPUT.jpeg)
 
 
+
+![Data Monitoring](DATA%20MONITORING.jpeg)
+
+
 ## **8. SERIAL MONITOR OUTPUT**
 
 The Arduino Serial Monitor is used to observe the initialization messages and transmitted numerical values.
